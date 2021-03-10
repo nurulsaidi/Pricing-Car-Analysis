@@ -1,0 +1,87 @@
+DATA DICTIONARY,,
+Car_Make_Model_Style,Model of the car  (categorical),categorical
+MSRP,manufacturer's suggested retail price (Numeric),Numeric
+Style Name,Style of the car (categorical),categorical
+Drivetrain,Drivetrain  (categorical),categorical
+Passenger Capacity,Passenger Capacity  (categorical),categorical
+Passenger Doors,Passenger Doors  (categorical),categorical
+Body Style,Body Style  (categorical),categorical
+EPA Classification,EPA Classification (categorical),categorical
+Base Curb Weight (lbs),The weight of a car without occupants or baggage. (Numeric),Numeric
+Front Hip Room (in),Front Hip Room (in) (numeric),Numeric
+Front Leg Room (in),Front Leg Room (in) (numeric),Numeric
+Second Shoulder Room (in),Second Shoulder Room (in) (numeric),Numeric
+Passenger Volume,Interior passenger volume,Numeric
+Second Head Room (in),Second Head Room (in),Numeric
+Front Shoulder Room (in),Front Shoulder Room (in),Numeric
+Second Hip Room (in),Second Hip Room (in),Numeric
+Front Head Room (in),Front Head Room (in),Numeric
+Second Leg Room (in),Second Leg Room (in),Numeric
+Wheelbase (in),Wheelbase (in),Numeric
+"Track Width, Front (in)","Track Width, Front (in)",Numeric
+"Width, Max w/o mirrors (in)","Width, Max w/o mirrors (in)",Numeric
+"Track Width, Rear (in)","Track Width, Rear (in)",Numeric
+"Height, Overall (in)","Height, Overall (in)",Numeric
+"Fuel Tank Capacity, Approx (gal)","Fuel Tank Capacity, Approx (gal)",Numeric
+Fuel Economy Est-Combined (MPG),Fuel Economy Est-Combined (MPG),Numeric
+EPA Fuel Economy Est - City (MPG),EPA Fuel Economy Est - City (MPG),Numeric
+EPA Fuel Economy Est - Hwy (MPG),EPA Fuel Economy Est - Hwy (MPG),Numeric
+Fuel System,Fuel System,Categorical
+First Gear Ratio (:1),First Gear Ratio (:1),Numeric
+Fourth Gear Ratio (:1),Fourth Gear Ratio (:1),Numeric
+Second Gear Ratio (:1),Second Gear Ratio (:1),Numeric
+Reverse Ratio (:1),Reverse Ratio (:1),Numeric
+Fifth Gear Ratio (:1),Fifth Gear Ratio (:1),Numeric
+Trans Type,Trans Type,Numeric
+Third Gear Ratio (:1),Third Gear Ratio (:1),Numeric
+Final Drive Axle Ratio (:1),Final Drive Axle Ratio (:1),Numeric
+Steering Type,Steering Type,categorical
+Turning Diameter - Curb to Curb,Turning Diameter - Curb to Curb,Numeric
+Front Wheel Material,Front Wheel Material,categorical
+Suspension Type - Front,Suspension Type - Front,categorical
+Suspension Type - Rear,Suspension Type - Rear,categorical
+Air Bag-Frontal-Driver,Air Bag-Frontal-Driver,categorical
+Air Bag-Frontal-Passenger,Air Bag-Frontal-Passenger,categorical
+Air Bag-Passenger Switch (On/Off),Air Bag-Passenger Switch (On/Off),categorical
+Air Bag-Side Body-Front,Air Bag-Side Body-Front,categorical
+Air Bag-Side Body-Rear,Air Bag-Side Body-Rear,categorical
+Air Bag-Side Head-Front,Air Bag-Side Head-Front,categorical
+Air Bag-Side Head-Rear,Air Bag-Side Head-Rear,categorical
+Brakes-ABS,Brakes-ABS,categorical
+Child Safety Rear Door Locks,Child Safety Rear Door Locks,categorical
+Daytime Running Lights,Daytime Running Lights,categorical
+Traction Control,Traction Control,categorical
+Night Vision,Night Vision,categorical
+Rollover Protection Bars,Rollover Protection Bars,categorical
+Fog Lamps,Fog Lamps,categorical
+Parking Aid,Parking Aid,categorical
+Tire Pressure Monitor,Tire Pressure Monitor,categorical
+Back-Up Camera,Back-Up Camera,categorical
+Stability Control,Stability Control,categorical
+Other Features,Other Features,categorical
+Basic Miles/km,Basic Miles/km,Numeric
+Basic Years,Basic Years,Numeric
+Corrosion Miles/km,Corrosion Miles/km,Numeric
+Corrosion Years,Corrosion Years,Numeric
+Drivetrain Miles/km,Drivetrain Miles/km,Numeric
+Drivetrain Years,Drivetrain Years,Numeric
+Roadside Assistance Miles/km,Roadside Assistance Miles/km,Numeric
+Roadside Assistance Years,Roadside Assistance Years,Numeric
+Maximum Alternator Capacity (amps),Maximum Alternator Capacity (amps),Numeric
+Gears,Gears,Numeric
+Net Horsepower,Net Horsepower,Numeric
+Net Horsepower RPM,Net Horsepower RPM,Numeric
+Net Torque,Net Torque,Numeric
+Net Torque RPM,Net Torque RPM,Numeric
+Engine Configuration,Engine Configuration,categorical
+Engine Class,Engine Class,categorical
+Displacement (L),Displacement (L),Numeric
+Displacement (cc),Displacement (cc),Numeric
+Rear Tire Width,Rear Tire Width,Numeric
+Front Tire Width,Front Tire Width,Numeric
+Rear Wheel Size,Rear Wheel Size,Numeric
+Front Wheel Size,Front Wheel Size,Numeric
+Tire Width Ratio,Tire Width Ratio,Numeric
+Wheel Size Ratio,Wheel Size Ratio,Numeric
+Tire Ratio,Tire Ratio,Numeric
+Year,Year,categorical
